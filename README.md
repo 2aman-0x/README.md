@@ -174,7 +174,7 @@ https://protoolio.com/lnk/8057693
 ```  
 <!--[Forensic](./images/129-1299685_kali-linux-wallpapers-4k.jpg)-->
 ```
-<img src="images/129-1299685_kali-linux-wallpapers-4k.jpg" width="700" title="Forensic Image" >
+<img src="129-1299685_kali-linux-wallpapers-4k.jpg" width="700" title="Forensic Image" >
 
 ---
 ### Emoji Adding : 😈
