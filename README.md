@@ -172,7 +172,7 @@ https://protoolio.com/lnk/8057693
 ---
 ### Image Adding syntax:
 ```  
-<!--[Forensic](./images/129-1299685_kali-linux-wallpapers-4k.jpg)-->
+[Forensic](./images/129-1299685_kali-linux-wallpapers-4k.jpg)
 ```
 <img src="129-1299685_kali-linux-wallpapers-4k.jpg" width="700" title="Forensic Image" >
 
